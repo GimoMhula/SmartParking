@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Parqueamento Inteligente</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_park">Parqueamento Inteligente</string>
+    <string name="menu_payment">Pagamento Mpesa</string>
+    <string name="menu_settings">Definicoes</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="place_name">Parque municipal do mercado central</string>
+    <string name="place_small_description">Baixa da Cidade de Maputo</string>
+    <string name="park_description">O Parque municipal do mercado central tem a sua entrada/saída de veículos localizada Av.25 de Setembro e Av. F. S. Magaia ocupando uma área de 69.17 m2  , possui 201 espaços para estacionamento de veículos ocupando uma área total de 2.512,50 m2 , tendo  5.064,14 m2 para circulação automóvel, o mesmo abre das 06h da manhã e fecha por volta das 20h da noite para o funcionamento geral, com excepção para os clientes que têm contracto 24h.</string>
+    <string name="park_address">Av. 25 de Setembro e Av. F. S. Magaia, na baixa da cidade ocupando uma área total de 7.576,64 m2</string>
+    <string name="menu_reservations">Reservas</string>
+    <string name="mercado_central">Mercado Municipal</string>
+    <string name="prompt_recharge_msg">Pagamento Mpesa</string>
+    <string name="section_format">Secção : %1$d</string>
+
+</resources>
